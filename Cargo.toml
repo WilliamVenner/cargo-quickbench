@@ -1,0 +1,10 @@
+[package]
+name = "cargo-quickbench"
+version = "0.1.0"
+edition = "2021"
+authors = ["William Venner <william@venner.io>"]
+description = "Quickly create a cargo bench package"
+categories = ["development-tools", "development-tools::cargo-plugins"]
+keywords = ["cargo", "bench", "subcommand"]
+repository = "https://github.com/WilliamVenner/cargo-quickbench"
+license = "MIT OR Apache-2.0"
